@@ -1,6 +1,6 @@
 ## Welcome to The Banyan Infotech
 
-We are a [web development company in coimbatore](https://www.banyaninfotech.com/web-development-company-in-coimbatore/) offering web and [mobile app development services] (https://www.banyaninfotech.com/mobile-app-development-company-in-coimbatore/). We are expert in developing [ERP Solutions] (https://www.banyaninfotech.com/services/erp-development-company-in-coimbatore/) for manufacturing indusrty and FMCG industry.
+We are a [web development company in coimbatore](https://www.banyaninfotech.com/web-development-company-in-coimbatore/) offering web and [mobile app development services](https://www.banyaninfotech.com/mobile-app-development-company-in-coimbatore/). We are expert in developing [ERP Solutions](https://www.banyaninfotech.com/services/erp-development-company-in-coimbatore/) for manufacturing indusrty and FMCG industry.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -34,4 +34,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-If you want to contact the Banyan Infotech for [web development services] (https://www.banyaninfotech.com/web-development-company-in-coimbatore/) [visit us] (https://www.banyaninfotech.com/contact-us/) or send an email to support@banyaninfotech.com
+If you want to contact the Banyan Infotech for [web development services](https://www.banyaninfotech.com/web-development-company-in-coimbatore/) [visit us](https://www.banyaninfotech.com/contact-us/) or send an email to support@banyaninfotech.com
