@@ -34,4 +34,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-If you want to contact the Banyan Infotech for [web development services](https://www.banyaninfotech.com/web-development-company-in-coimbatore/) [visit us](https://www.banyaninfotech.com/contact-us/) or send an email to support@banyaninfotech.com
+If you want to contact the Banyan Infotech for [web development services](https://www.banyaninfotech.com/web-development-company-in-coimbatore/), [visit us](https://www.banyaninfotech.com/contact-us/) or send an email to support@banyaninfotech.com
